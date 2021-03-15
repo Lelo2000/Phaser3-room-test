@@ -1,0 +1,6 @@
+Um die Framebreite und Höhe der Spritesheets angeben zu können muss Extra "frameConfig" genommen werden.
+Wenn sich das Prinzip überträgt sollten die einzelnen Einstellung hier nachgeschaut werden:
+https://photonstorm.github.io/phaser3-docs/Phaser.Types.Loader.FileTypes.html
+
+Ein Tileset sollte immer mit der Id geladen werden, wie es auch in Tiled heißt. Damit kann es automatisch geladen werden.
+Es kann nur ein Tileset pro Ebene verwendet werden. Ich denke wir sollten evtl generell nur ein Tileset pro Karte verwenden!!.

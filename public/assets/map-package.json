@@ -1,0 +1,74 @@
+{
+  "MainHub": {
+    "files": [
+      {
+        "type": "spritesheet",
+        "key": "dude",
+        "url": "assets/dude.png",
+        "frameConfig": {
+          "frameWidth": 35,
+          "frameHeight": 48
+        }
+      },
+      {
+        "type": "spritesheet",
+        "key": "catGhosts",
+        "url": "assets/catGhosts.png",
+        "frameConfig": {
+          "frameWidth": 192,
+          "frameHeight": 282
+        }
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "isometrische-map",
+        "url": "assets/isometrisch.json"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "winterIf-map",
+        "url": "assets/tilemaps/isometrisch_kitty_64_32.json"
+      },
+      {
+        "type": "tilemapTiledJSON",
+        "key": "anne-map",
+        "url": "assets/tilemaps/Test_Anne.json"
+      },
+      {
+        "type": "image",
+        "key": "testtest",
+        "url": "./assets/tilemaps/tilesets/Tiles_neu_anne.png"
+      },
+      {
+        "type": "image",
+        "key": "Asset 28",
+        "url": "./assets/tilemaps/tilesets/Asset_28.png"
+      },
+      {
+        "type": "image",
+        "key": "discoSchemel",
+        "url": "./assets/schemel.png"
+      },
+      {
+        "type": "image",
+        "key": "roboHeadClosed",
+        "url": "./assets/roboHeadClosed.png"
+      },
+      {
+        "type": "svg",
+        "key": "loginIllu2",
+        "url": "./assets/login_illu.svg"
+      },
+      {
+        "type": "image",
+        "key": "loginPfeil2",
+        "url": "./assets/login_pfeil.png"
+      },
+      {
+        "type": "image",
+        "key": "danceFloorTile",
+        "url": "./assets/danceFloorTile.png"
+      }
+    ]
+  }
+}

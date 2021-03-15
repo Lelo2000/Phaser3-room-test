@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "ifSchrift";
+  src: url("/assets/fonts/Louis_George_Cafe_1.ttf");
+  font-weight: 800;
+}
+
+body {
+  font-family: ifSchrift;
+  margin: 0px;
+  overflow: hidden;
+}
+#nameField {
+  width: 654px !important;
+  height: 148px !important;
+  border-radius: 20px;
+  font-size: 60px !important;
+  padding-left: 30px;
+  color: #655fb8 !important;
+}
